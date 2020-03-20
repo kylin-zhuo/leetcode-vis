@@ -1,2 +1,2 @@
 # leetcode-vis
-Leetcode problems visualization 
+Leetcode problems visualization. 
